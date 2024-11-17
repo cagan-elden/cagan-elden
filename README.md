@@ -1,4 +1,5 @@
 # 👋 Hello There, I'm Cagan Eldenk!
+#### I've been coding since late 2019 as a self taught developer. I still am a highschool student.
 
 ## 💻 My Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -8,8 +9,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-
-#### I've been coding since late 2019 as a self taught developer. I still am a highschool student.
 
 ## 👩‍💻 What I'm Up To
 * I'm working on a side project called **LifePoint**.
