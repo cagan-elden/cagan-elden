@@ -1,7 +1,5 @@
 # 👋 Hello There, I'm Cagan Eldenk!
 
-![Profile Views](https://komarev.com/ghpvc/?username=jane-doe&style=flat-square)
-
 ## 💻 My Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
@@ -20,12 +18,3 @@
 ## 📊 Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cagan-elden&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagan-elden&layout=compact&theme=radical)
-
-## 🌐 My Language Stack
-| Language  | Proficiency |
-|-----------|-------------|
-| Turkish | Native |
-| English | B2 |
-| French | B1 |
-#
-If you're into these stuff contact me.
