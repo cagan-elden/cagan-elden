@@ -13,6 +13,7 @@
 ## 👩‍💻 What I'm Up To
 * I'm working on a side project called **LifePoint**.
 * I'm learning about **cybersecurity** and **NLP**.
+* Working at HODX we an intern.
 
 ## 📊 Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cagan-elden&show_icons=true&theme=radical)
