@@ -17,4 +17,4 @@
 
 ## 📊 Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cagan-elden&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagan-elden&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagan-elden&theme=radical)
