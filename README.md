@@ -1,3 +1,3 @@
 <center>
-  <img src="https://skillicons.dev/icons?i=git,javascript,jquery,php,python,flask,cs,dotnet,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,php,python,cs,mysql,postgresql" />
 </center>
