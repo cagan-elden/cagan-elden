@@ -5,5 +5,5 @@
 
 ## Framework Stack
 <center>
-  <img src="https://skillicons.dev/icons?i=jquery,react,django,flask,binance,dotnet" />
+  <img src="https://skillicons.dev/icons?i=jquery,react,django,flask,cv2,dotnet" />
 </center>
