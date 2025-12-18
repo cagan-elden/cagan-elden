@@ -5,7 +5,7 @@
 
 <h2>Language Stack</h2>
 <center>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,cs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=javascript,php,python,java,cpp,cs,sql" />
 </center>
 
 <h2>Framework Stack</h2>
