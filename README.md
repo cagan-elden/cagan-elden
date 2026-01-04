@@ -1,13 +1,1 @@
-<h2>Github Stats</h2>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-</div>
-
-<h2>Language Stack</h2>
-<center>
-  <img src="https://skillicons.dev/icons?i=javascript,php,python,java,cpp,cs,sql" />
-</center>
-
-<h2>Framework Stack</h2>
-<center>
-  <img src="https://skillicons.dev/icons?i=jquery,react,django,flask,dotnet" />
-</center>
+![3D Contributions](./profile-3d-contrib/profile-season-animate.svg)
